@@ -16,7 +16,7 @@ O objetivo principal do projeto foi construir um data lake completo na AWS. O fl
 
 ## Fonte de Dados
 
-Os dados utilizados no projeto são da base de dados do site Data Boston (https://data.boston.gov/) Trata-se de uma coleção de solicitações de melhorias urbanas feitas pelos moradores da cidade de Boston, EUA. Esse conjunto de dados registra uma variedade de problemas reportados pela população, como falta de luz, pichações em carros e outras demandas, funcionando como um registro histórico das preocupações e necessidades da comunidade em relação à infraestrutura e aos serviços urbanos.
+Os dados utilizados no projeto são da base de dados do site Data Boston (https://data.boston.gov/). Trata-se de uma coleção de solicitações de melhorias urbanas feitas pelos moradores da cidade de Boston, EUA. Esse conjunto de dados registra uma variedade de problemas reportados pela população, como falta de luz, pichações em carros e outras demandas, funcionando como um registro histórico das preocupações e necessidades da comunidade em relação à infraestrutura e aos serviços urbanos.
 
 Clique <a style="text-decoration:none;" href="https://data.boston.gov/dataset/311-service-requests" target="_blank">aqui</a> para acessar os arquivos utilizados.
 
