@@ -1,4 +1,4 @@
-# Formação AWS Data Lake
+# AWS Data Lake
 
 ## Descrição do Projeto
 
